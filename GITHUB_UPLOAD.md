@@ -36,7 +36,7 @@ Your project is ready to upload! Git is not currently installed. Follow these st
 
 **Instead of running all steps manually**, use the automated script:
 
-1. Navigate to project folder: `c:\Users\parsh\Downloads\tos-analyzer\tos-analyzer`
+1. Navigate to project folder: `C:\Users\AISHWARYA\OneDrive\Desktop\TOS_Analyser>`
 2. Double-click `upload-to-github.bat`
 3. Follow the prompts
 4. Enter your GitHub Personal Access Token when prompted
@@ -70,7 +70,7 @@ Replace with your actual name and email.
 
 Navigate to your project folder and run:
 ```powershell
-cd c:\Users\parsh\Downloads\tos-analyzer\tos-analyzer
+cd C:\Users\AISHWARYA\OneDrive\Desktop\TOS_Analyser>
 git init
 ```
 
@@ -89,7 +89,7 @@ git commit -m "Initial commit: ToS Red Flag Analyzer with Chrome Extension"
 ## Step 5: Add Remote Repository
 
 ```powershell
-git remote add origin https://github.com/parnika760/TOS_Analyser.git
+git remote add origin https://github.com/AISHWARYADEVI-M/ToS-Analyzer.git
 ```
 
 ## Step 6: Push to GitHub
@@ -100,7 +100,7 @@ git push -u origin main
 ```
 
 If prompted for authentication:
-- **Username**: parnika760
+- **Username**: AISHWARYADEVI-M
 - **Password**: Use your GitHub Personal Access Token (not your password)
   - Create a PAT at: https://github.com/settings/tokens
   - Select `repo` scope
@@ -159,7 +159,7 @@ tos-analyzer/
 ## ✅ Verify Upload
 
 After pushing, verify everything is on GitHub:
-1. Go to https://github.com/parnika760/TOS_Analyser
+1. Go to https://github.com/AISHWARYADEVI-M/ToS-Analyzer
 2. Click "Code" and verify all files are there
 3. Star 🌟 your own repo!
 
@@ -170,7 +170,7 @@ After pushing, verify everything is on GitHub:
 After initial upload, to push changes:
 
 ```powershell
-cd c:\Users\parsh\Downloads\tos-analyzer\tos-analyzer
+cd C:\Users\AISHWARYA\OneDrive\Desktop\TOS_Analyser>
 git add .
 git commit -m "Description of changes"
 git push origin main
@@ -202,7 +202,7 @@ Then go to GitHub → Releases → Create release from tag
 **"remote already exists"**
 ```powershell
 git remote remove origin
-git remote add origin https://github.com/parnika760/TOS_Analyser.git
+git remote add origin https://github.com/AISHWARYADEVI-M/ToS-Analyzer.git
 ```
 
 **"failed to push some refs"**
