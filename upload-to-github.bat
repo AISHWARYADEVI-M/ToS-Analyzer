@@ -108,7 +108,7 @@ if %errorlevel% equ 0 (
     git remote remove origin
 )
 
-git remote add origin https://github.com/parnika760/TOS_Analyser.git
+git remote add origin https://github.com/AISHWARYADEVI-M/ToS-Analyzer.git
 if %errorlevel% neq 0 (
     echo ERROR: Failed to add remote
     pause
@@ -154,7 +154,7 @@ if /i "%push%"=="y" (
         echo ========================================
         echo.
         echo View your repository at:
-        echo   https://github.com/parnika760/TOS_Analyser
+        echo   https://github.com/AISHWARYADEVI-M/ToS-Analyzer
         echo.
         pause
     ) else (
