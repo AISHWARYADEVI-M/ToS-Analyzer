@@ -33,7 +33,7 @@ Should show: `git version 2.x.x.windows.1`
 
 #### 🟢 EASIEST: Use Automated Script
 ```
-1. Navigate to: c:\Users\parsh\Downloads\tos-analyzer\tos-analyzer
+1. Navigate to: C:\Users\AISHWARYA\OneDrive\Desktop\TOS_Analyser>
 2. Double-click: upload-to-github.bat
 3. Follow the prompts
 4. Enter your GitHub Personal Access Token when asked
@@ -43,7 +43,7 @@ Should show: `git version 2.x.x.windows.1`
 #### 🔵 MANUAL: Run Commands in PowerShell
 ```powershell
 # Navigate to project
-cd c:\Users\parsh\Downloads\tos-analyzer\tos-analyzer
+cd C:\Users\AISHWARYA\OneDrive\Desktop\TOS_Analyser>
 
 # Initialize and commit
 git init
@@ -51,7 +51,7 @@ git add .
 git commit -m "Initial commit: ToS Guard with Chrome Extension and AI analysis"
 
 # Add remote and push
-git remote add origin https://github.com/parnika760/TOS_Analyser.git
+git remote add origin https://github.com/AISHWARYADEVI-M/ToS-Analyzer.git
 git branch -M main
 git push -u origin main
 ```
@@ -78,7 +78,7 @@ When git asks for a password, **use your Personal Access Token, NOT your GitHub 
 
 After upload completes:
 - [ ] No errors shown
-- [ ] Visit https://github.com/parnika760/TOS_Analyser
+- [ ] Visit https://github.com/AISHWARYADEVI-M/ToS-Analyzer.git
 - [ ] All files visible on GitHub
 - [ ] README displays correctly
 - [ ] Chrome extension folder contents visible
@@ -90,7 +90,7 @@ After upload completes:
 ## 📚 After Upload
 
 ### View Your Repository
-- Go to: https://github.com/parnika760/TOS_Analyser
+- Go to: https://github.com/AISHWARYADEVI-M/ToS-Analyzer.git
 - Click on files to view them
 - Click "Issues" to track bugs
 - Click "Projects" for task management
