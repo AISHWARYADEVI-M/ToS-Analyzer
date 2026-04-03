@@ -29,7 +29,7 @@ git --version
 echo.
 
 REM Navigate to project directory
-cd /d "c:\Users\parsh\Downloads\tos-analyzer\tos-analyzer"
+cd /d "C:\Users\AISHWARYA\OneDrive\Desktop\TOS_Analyser"
 if %errorlevel% neq 0 (
     echo ERROR: Could not navigate to project directory
     pause
@@ -131,7 +131,7 @@ echo.
 echo Next command: git push -u origin main
 echo.
 echo If prompted for authentication:
-echo   Username: parnika760
+echo   Username: AISHWARYADEVI-M
 echo   Password: [Use your GitHub Personal Access Token]
 echo.
 echo Don't have a PAT? Create one:
