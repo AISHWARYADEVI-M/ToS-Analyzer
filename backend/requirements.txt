@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+beautifulsoup4
+requests
+pydantic
+pdfplumber
+python-multipart
