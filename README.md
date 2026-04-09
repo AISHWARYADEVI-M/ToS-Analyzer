@@ -1,4 +1,4 @@
-# �️ ToS Guard — AI-Powered Privacy & Terms Scanner
+# �️ ToS Analyzer — AI-Powered Privacy & Terms Scanner
 
 <div align="center">
 
