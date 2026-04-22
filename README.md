@@ -16,9 +16,9 @@
 
 ---
 
-## 🎯 What is ToS Guard?
+## 🎯 What is ToS Analyzer?
 
-ToS Guard analyzes Terms of Service documents using advanced AI to identify risky clauses and explain them in plain English. Perfect for:
+ToS Analyzer analyzes Terms of Service documents using advanced AI to identify risky clauses and explain them in plain English. Perfect for:
 
 - **Privacy-conscious users** — Understand what data companies collect
 - **Legal reviewers** — Get AI-assisted analysis of important clauses
